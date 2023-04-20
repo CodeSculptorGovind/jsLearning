@@ -1,2 +1,2 @@
 # jsLearning
-He i practced Js most important topics
+Here i practced Js most important topics
